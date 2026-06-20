@@ -13,7 +13,7 @@ url: "/projects/silent-syntax/"
 aliases: ["/artistic-creations/silent-syntax/", "/categories/artistic-creations/silent-syntax/"]
 
 cover:
-  image: "/images/silent-syntax-cover.png"
+  image: "/my-portfolio/images/silent-syntax-cover.png"
   alt: "Still image from Silent Syntax video"
   caption: "Digital rendering inspired by Qinglü landscape traditions"
 ---
@@ -22,7 +22,7 @@ cover:
 ## Silent Syntax  
 *Generative video / digital drawing, 2025*  
 
-<video src="/videos/SilentSyntax.mp4"
+<video src="/my-portfolio/videos/SilentSyntax.mp4"
        controls autoplay loop muted playsinline
        style="width:100%;height:auto;max-height:80vh;object-fit:contain;">
   Your browser does not support the video tag.

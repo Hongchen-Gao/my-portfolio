@@ -55,25 +55,25 @@ Exploring the expressive harmony between brush, ink, and paper — from papercut
 ---
 
 ### **YUAN**
-<img src="/my-portfolio/images/traditional-art/yuan.jpg" alt="YUAN">
+<img src="/my-portfolio/images/traditional-chinese-art/yuan.jpg" alt="YUAN">
 Papercutting on rice paper · 48 × 18 inches · 2023  
 
 ---
 
 ### **Lotus Emerging from Water**
-<img src="/my-portfolio/images/traditional-art/lotus.jpg" alt="Lotus Emerging from Water">
+<img src="/my-portfolio/images/traditional-chinese-art/lotus.jpg" alt="Lotus Emerging from Water">
 Ink and color on silk · 12 × 12 inches · 2013  
 
 ---
 
 ### **After “Lofty Mount Lu”**
-<img src="/my-portfolio/images/traditional-art/mount-lu.jpg" alt="After Lofty Mount Lu">
+<img src="/my-portfolio/images/traditional-chinese-art/mount-lu.jpg" alt="After Lofty Mount Lu">
 Ink on paper ·  96 × 35 inches · 2022  
 
 ---
 
 ### **Resilient Growth**
-<img src="/my-portfolio/images/traditional-art/resilient-growth.jpg" alt="Resilient Growth">
+<img src="/my-portfolio/images/traditional-chinese-art/resilient-growth.jpg" alt="Resilient Growth">
 Color ink on paper · 12 × 20 inches · 2025  
 
 ---
