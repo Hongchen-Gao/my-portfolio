@@ -436,8 +436,8 @@ body[data-path*="/categories/education-and-curatorial-projects/"] .post-entry {
 body[data-path*="/categories/education-and-curatorial-projects/"] .post-entry:hover {
   background: rgba(255, 255, 255, 0.88) !i
 
-/* === Artistic Creations：一行三个网格（手机一行一个）=== */
-body.category-artistic-creations .post-list{
+/* === Artistic Creations 一行三个网格（用canonical精准命中本页）=== */
+html:has(link[rel="canonical"][href$="/categories/artistic-creations/"]) .post-list{
   display: grid !important;
   grid-template-columns: repeat(3, 1fr) !important;
   gap: 1.6rem !important;
@@ -445,14 +445,11 @@ body.category-artistic-creations .post-list{
   margin: 2.5rem auto !important;
   padding: 0 1rem;
 }
-body.category-artistic-creations .post-entry{
+html:has(link[rel="canonical"][href$="/categories/artistic-creations/"]) .post-entry{
   margin: 0 !important;
 }
-body.category-artistic-creations .post-entry .entry-body{
-  padding: 1rem 1.1rem 1.2rem !important;
-}
 @media (max-width: 768px){
-  body.category-artistic-creations .post-list{
+  html:has(link[rel="canonical"][href$="/categories/artistic-creations/"]) .post-list{
     grid-template-columns: 1fr !important;
     max-width: 720px !important;
   }
