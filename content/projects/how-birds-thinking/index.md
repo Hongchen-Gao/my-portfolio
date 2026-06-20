@@ -19,10 +19,9 @@ This project combines visual arts and animation to explore the speculative inner
 
 **VIDEO**
 
-<video controls width="100%">
-  <source src="/my-portfolio/images/how-birds-thinking/h1.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;">
+  <iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://www.youtube.com/embed/TnXF8yFPR6M" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 **ILLUSTRATIONS**
 

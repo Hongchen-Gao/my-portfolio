@@ -22,11 +22,9 @@ cover:
 ## Silent Syntax  
 *Generative video / digital drawing, 2025*  
 
-<video src="/my-portfolio/videos/SilentSyntax.mp4"
-       controls autoplay loop muted playsinline
-       style="width:100%;height:auto;max-height:80vh;object-fit:contain;">
-  Your browser does not support the video tag.
-</video>
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;">
+  <iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://www.youtube.com/embed/_1jgJmdh5qY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 
 *Silent Syntax* translates the visual logic of Qinglü landscape painting into a language of light and motion.  
