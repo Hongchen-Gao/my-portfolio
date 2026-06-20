@@ -1,4 +1,7 @@
 ---
+cover:
+  image: "/my-portfolio/images/other/1.jpg"
+  alt: "Mixed Material Works"
 title: "Mixed Material Works"
 date: 2025-01-10
 draft: false
