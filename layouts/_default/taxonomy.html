@@ -5,7 +5,7 @@
     {{ with .Content }}<div class="post-description">{{ . }}</div>{{ end }}
   </header>
 
-  {{ $paginator := .Paginate (.Pages.ByDate.Reverse) }}
+  {{ $paginator := .Paginate (.Pages.ByWeight) }}
   <div class="post-list">
     {{ range $paginator.Pages }}
       {{/* 取封面：image -> cover.image -> images[0] */}}

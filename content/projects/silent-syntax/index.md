@@ -13,7 +13,7 @@ url: "/projects/silent-syntax/"
 aliases: ["/artistic-creations/silent-syntax/", "/categories/artistic-creations/silent-syntax/"]
 
 cover:
-  image: "/images/silent-syntax-cover.jpg"
+  image: "/images/silent-syntax-cover.png"
   alt: "Still image from Silent Syntax video"
   caption: "Digital rendering inspired by Qinglü landscape traditions"
 ---
