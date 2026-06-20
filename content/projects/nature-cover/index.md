@@ -3,7 +3,7 @@ title: "Cover Art for Nature Biotechnology"
 date: 2025-07-15
 draft: false
 cover:
-  image: "/my-portfolio/images/8.png"
+  image: "/my-portfolio/images/7.png"
   alt: "Nature Biotechnology Cover"
 weight: 1
 categories: ["Artistic Creations"]
