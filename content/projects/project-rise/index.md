@@ -10,7 +10,6 @@ cover:
   alt: "Project RISE — The Helix of Inclusion and Hope"
 ---
 
-<img src="/my-portfolio/images/ProjectRise_original.png" alt="Project RISE — The Helix of Inclusion and Hope" width="500" />
 
 **Project RISE: Readiness and Instruction for Supporting Early Intervention**
 
