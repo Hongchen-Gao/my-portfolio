@@ -3,7 +3,7 @@ title: "Mixed Material Works"
 date: 2025-01-10
 draft: false
 summary: "A collection of recent personal paintings."
-weight: 5
+weight: 6
 categories: ["Artistic Creations"]
 
 ---

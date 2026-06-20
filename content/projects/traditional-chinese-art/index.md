@@ -12,7 +12,7 @@ cover:
   hiddenInList: false
   hiddenInSingle: false
 summary: "A collection of ink paintings and papercut works exploring traditional Chinese aesthetics through brush, ink, and paper."
-weight: 3
+weight: 4
 categories: ["Artistic Creations"]
 ---
 

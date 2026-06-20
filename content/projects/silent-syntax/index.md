@@ -3,7 +3,7 @@ title: "Silent Syntax"
 date: 2025-08-01
 draft: false
 categories: ["Artistic Creations"]
-weight: 2
+weight: 3
 tags: ["digital art", "video", "landscape", "translation", "language"]
 summary: "A generative landscape transforming Qinglü painting into a living language of light and motion."
 showToc: false

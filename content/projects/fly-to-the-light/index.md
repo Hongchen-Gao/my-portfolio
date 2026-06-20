@@ -6,7 +6,7 @@ summary: "A visual exploration inspired by CHARLS and the experience of urban vi
 cover:
   image: "/my-portfolio/images/fly-to-the-light/n1.png"
   alt: "Fly to the Light Map"
-weight: 4
+weight: 5
 categories: ["Artistic Creations"]
 type: "projects"
 
