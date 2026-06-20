@@ -28,11 +28,23 @@ body.list .post-entry:hover{
   box-shadow: 0 16px 36px rgba(0,0,0,.18);
 }
 
-/* —— 删除封面区域 —— */
+/* —— 封面图显示（卡片顶部）—— */
 .taxonomy .post-entry .entry-cover,
 .terms .post-entry .entry-cover,
 body.list .post-entry .entry-cover{
-  display: none !important;
+  display: block !important;
+  margin: 0 0 1rem 0 !important;
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  overflow: hidden;
+}
+.taxonomy .post-entry .entry-cover img,
+.terms .post-entry .entry-cover img,
+body.list .post-entry .entry-cover img{
+  width: 100% !important;
+  height: 100% !important;
+  object-fit: cover !important;
+  display: block !important;
 }
 
 /* 文字区样式 */
