@@ -434,22 +434,28 @@ body[data-path*="/categories/education-and-curatorial-projects/"] .post-entry {
 
 /* 悬浮时略亮 + 蓝边线 */
 body[data-path*="/categories/education-and-curatorial-projects/"] .post-entry:hover {
-  background: rgba(255, 255, 255, 0.88) !i
+  background: rgba(255, 255, 255, 0.88) !important;
+  border-color: #1a73e8;
+}
 
-/* === Artistic Creations 一行三个网格（用canonical精准命中本页）=== */
-html:has(link[rel="canonical"][href$="/categories/artistic-creations/"]) .post-list{
+
+/* === Artistic Creations 和 Education & Curatorial Projects 分类页网格布局 === */
+html:has(link[rel="canonical"][href$="/categories/artistic-creations/"]) .post-list,
+html:has(link[rel="canonical"][href$="/categories/education-and-curatorial-projects/"]) .post-list {
   display: grid !important;
-  grid-template-columns: repeat(3, 1fr) !important;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)) !important;
   gap: 1.6rem !important;
-  max-width: 1150px !important;
+  max-width: 1200px !important;
   margin: 2.5rem auto !important;
   padding: 0 1rem;
 }
-html:has(link[rel="canonical"][href$="/categories/artistic-creations/"]) .post-entry{
+html:has(link[rel="canonical"][href$="/categories/artistic-creations/"]) .post-entry,
+html:has(link[rel="canonical"][href$="/categories/education-and-curatorial-projects/"]) .post-entry {
   margin: 0 !important;
 }
-@media (max-width: 768px){
-  html:has(link[rel="canonical"][href$="/categories/artistic-creations/"]) .post-list{
+@media (max-width: 900px){
+  html:has(link[rel="canonical"][href$="/categories/artistic-creations/"]) .post-list,
+  html:has(link[rel="canonical"][href$="/categories/education-and-curatorial-projects/"]) .post-list {
     grid-template-columns: 1fr !important;
     max-width: 720px !important;
   }
